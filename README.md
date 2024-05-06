@@ -7,12 +7,6 @@ This project is a simple interactive animation where particles on the screen sca
 <img width="890" alt="Particles" src="https://github.com/Chakilamsrikanth/Mouse-X-Y-Particles/assets/147283839/190952b7-4d6f-4164-b231-27f72e23926d">
 
 
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-
 ## Features
 
 - Particle animation: Particles move away from the mouse pointer when hovered over.
