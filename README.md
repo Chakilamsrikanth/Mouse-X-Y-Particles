@@ -1,9 +1,10 @@
-# Particle Animation Interaction
+# Particles Interaction
 
 This project is a simple interactive animation where particles on the screen scatter away when the mouse pointer navigates around them. It also displays the X and Y axis values of the mouse pointer on the screen.
 
 ## Demo
 
+<img width="890" alt="Particles" src="https://github.com/Chakilamsrikanth/Mouse-X-Y-Particles/assets/147283839/190952b7-4d6f-4164-b231-27f72e23926d">
 
 
 ## Technologies Used
